@@ -32,10 +32,11 @@ The system employs an **Orchestrator-Agent Architecture** consisting of speciali
 
 ## 🎥 Project Demos
 ### Streamlit Pipeline Interface
-*Witness the system logs, progress tracking, and autonomous decision-making in real-time.*
 
-<video src="https://github.com/EngAhmed5/Autonomous-Data-Science-System/raw/main/Demo/README.mp4" controls="controls" style="max-width: 100%;">
-</video>
+
+
+https://github.com/user-attachments/assets/02170de7-5376-460a-a64a-607e6188a392
+
 
 ---
 
