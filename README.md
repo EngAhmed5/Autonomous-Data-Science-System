@@ -1,4 +1,4 @@
-# 🤖 Autonomous Data Science System (ADSS)
+# Autonomous Data Science System (ADSS)
 > **Data Science on Autopilot: An end-to-end agentic ML orchestrator designed to transform raw data into production-ready models and executive-level PDF reports.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org)
@@ -9,28 +9,28 @@
 
 ---
 
-## 👥 The Team
+## The Team
 This project was collaboratively developed as a **Team Project** for the **Orange Digital Center (ODC) Egypt** (AI Agents & LLMs Track) by:
 *   **Ahmed Ismail El Sayed**
 *   **Ahmed Mohamed Hussein**
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The **Autonomous Data Science System (ADSS)** is a sophisticated multi-agent framework that automates the entire machine learning lifecycle. By combining the reasoning capabilities of **Large Language Models (LLMs)** with the computational power of **Scikit-Learn**, ADSS handles everything from data ingestion to sending a professional diagnostic report directly to your inbox.
 
-### 🏗️ Agentic Workflow
+### Agentic Workflow
 The system employs an **Orchestrator-Agent Architecture** consisting of specialized autonomous units:
-*   **🔍 EDA Agent:** Generates statistical summaries, detects outliers, and creates a comprehensive visualization suite.
-*   **🛠️ Preprocessing Agent:** Dynamically engineers features, handles scaling, and encodes variables based on real-time data inspection.
-*   **🏎️ ML Tuning Agent:** Optimizes model performance via `RandomizedSearchCV`, comparing multiple algorithms to find the best fit.
-*   **⚖️ Error Analysis Agent:** Interprets complex technical metrics into high-level, human-readable diagnostic insights using LLMs.
-*   **📑 Documentation Agent:** Programmatically builds professional multi-page PDF reports using `ReportLab`.
-*   **📧 Email Agent:** Automates the final delivery of reports and artifacts via Gmail.
+*   ** EDA Agent:** Generates statistical summaries, detects outliers, and creates a comprehensive visualization suite.
+*   ** Preprocessing Agent:** Dynamically engineers features, handles scaling, and encodes variables based on real-time data inspection.
+*   ** ML Tuning Agent:** Optimizes model performance via `RandomizedSearchCV`, comparing multiple algorithms to find the best fit.
+*   ** Error Analysis Agent:** Interprets complex technical metrics into high-level, human-readable diagnostic insights using LLMs.
+*   ** Documentation Agent:** Programmatically builds professional multi-page PDF reports using `ReportLab`.
+*   ** Email Agent:** Automates the final delivery of reports and artifacts via Gmail.
 
 ---
 
-## 🎥 Project Demos
+## Project Demos
 ### Streamlit Pipeline Interface
 
 
@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/02170de7-5376-460a-a64a-607e6188a392
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```bash
 │   requirements.txt
 │
@@ -73,7 +73,7 @@ https://github.com/user-attachments/assets/02170de7-5376-460a-a64a-607e6188a392
 
 ---
 
-## 🚀 Key Technical Features
+##  Key Technical Features
 - **Dynamic Task Detection:** Automatically distinguishes between Classification and Regression tasks.
 - **Auto-Report Generation:** Generates a professional 8-section PDF including TOC, Executive Summary, and Visual Analysis.
 - **LLM Diagnostic Reasoning:** Provides qualitative explanations of model failure points (Precision/Recall/Bias).
@@ -82,7 +82,7 @@ https://github.com/user-attachments/assets/02170de7-5376-460a-a64a-607e6188a392
 
 ---
 
-## 💻 Installation & Setup
+##  Installation & Setup
 
 1.  **Clone the Repo**
     ```bash
@@ -105,7 +105,7 @@ https://github.com/user-attachments/assets/02170de7-5376-460a-a64a-607e6188a392
 
 ---
 
-## 🎓 Acknowledgments
+##  Acknowledgments
 Developed as the final graduation project for the **Orange Digital Center (ODC) Egypt**. We extend our gratitude to our mentors in the **AI Agents & LLMs track** for their technical guidance and support.
 
 **License:** MIT License
